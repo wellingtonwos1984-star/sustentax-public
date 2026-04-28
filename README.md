@@ -127,3 +127,32 @@ O Sustentax foi concebido como um **modelo replicável**, podendo ser implementa
 ## ⭐ Mensagem final
 
 **Recicle, acumule Sustentax e transforme o mundo — começando pela sua comunidade! 🌎♻️**
+
+---
+
+## 📱 Sustentax na prática
+
+<p align="center">
+  <img src="assets/app-home.jpeg" width="200" style="margin:10px"/>
+  <img src="assets/app-extrato.jpeg" width="200" style="margin:10px"/>
+  <img src="assets/app-minhas_transações.jpeg" width="200" style="margin:10px"/>
+</p>
+
+<p align="center">
+  <img src="assets/app-conquistas_&_ranking.jpeg" width="200" style="margin:10px"/>
+  <img src="assets/app-quiz_sustentável.jpeg" width="200" style="margin:10px"/>
+</p>
+
+<p align="center">
+  <em>Interface real do aplicativo Sustentax utilizada por estudantes para registro de resíduos, acompanhamento de saldo e engajamento em práticas de educação ambiental.</em>
+</p>
+
+---
+
+### 💡 Funcionalidades do aplicativo
+
+- 📊 Controle de saldo em Sustentax  
+- ♻️ Registro de entregas de resíduos  
+- 🏆 Sistema de conquistas e ranking  
+- 📱 Interface simples e acessível para estudantes  
+- 🌱 Educação ambiental na prática  
