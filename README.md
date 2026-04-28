@@ -130,21 +130,31 @@ O Sustentax foi concebido como um **modelo replicável**, podendo ser implementa
 
 ---
 
-## 📱 Sustentax na prática
+## 📱 Sustentax na prática — evidência de uso real
 
 <p align="center">
-  <img src="assets/app-home.jpeg" width="200" style="margin:10px"/>
-  <img src="assets/app-extrato.jpeg" width="200" style="margin:10px"/>
-  <img src="assets/app-minhas_transações.jpeg" width="200" style="margin:10px"/>
+  <img src="assets/app-home.jpeg" width="220"/><br/>
+  <strong>Tela inicial:</strong> visualização do saldo em Sustentax, metas ativas e indicadores de engajamento do estudante.
 </p>
 
 <p align="center">
-  <img src="assets/app-conquistas_&_ranking.jpeg" width="200" style="margin:10px"/>
-  <img src="assets/app-quiz_sustentável.jpeg" width="200" style="margin:10px"/>
+  <img src="assets/app-extrato.jpeg" width="220"/><br/>
+  <strong>Extrato:</strong> acompanhamento detalhado das movimentações, promovendo transparência e controle do saldo.
 </p>
 
 <p align="center">
-  <em>Interface real do aplicativo Sustentax utilizada por estudantes para registro de resíduos, acompanhamento de saldo e engajamento em práticas de educação ambiental.</em>
+  <img src="assets/app-minhas_transações.jpeg" width="220"/><br/>
+  <strong>Transações:</strong> registro das ações realizadas pelo usuário, garantindo rastreabilidade das práticas sustentáveis.
+</p>
+
+<p align="center">
+  <img src="assets/app-conquistas_&_ranking.jpeg" width="220"/><br/>
+  <strong>Conquistas e ranking:</strong> sistema de gamificação que incentiva a participação e o engajamento socioambiental.
+</p>
+
+<p align="center">
+  <img src="assets/app-quiz_sustentável.jpeg" width="220"/><br/>
+  <strong>Quiz sustentável:</strong> recurso pedagógico interativo para consolidação de conhecimentos em educação ambiental.
 </p>
 
 ---
