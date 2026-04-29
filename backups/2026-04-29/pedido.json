@@ -1,0 +1,134 @@
+{
+  "entidade": "Pedido",
+  "total": 3,
+  "gerado_em": "2026-04-29T01:45:05.968Z",
+  "nota": "Dados anonimizados conforme LGPD. Campos PII removidos.",
+  "dados": [
+    {
+      "qr_code_data": null,
+      "data_entrega": "2026-04-28T01:34:03.811Z",
+      "data_pedido": "2026-04-28T01:33:10.666Z",
+      "itens": [
+        {
+          "preco_unitario": 1,
+          "produto_id": "69ec0ad817112ec0341d4f77",
+          "quantidade": 2,
+          "subtotal": 2,
+          "produto_nome": "Brinde Sustentax (Teste)"
+        }
+      ],
+      "correntista_turma": "",
+      "historico_status": [
+        {
+          "data": "2026-04-28T01:33:10.666Z",
+          "usuario": "[ANONIMIZADO]",
+          "status": "recebido"
+        },
+        {
+          "data": "2026-04-28T01:33:48.043Z",
+          "usuario": "[ANONIMIZADO]",
+          "status": "aguardando_separacao"
+        },
+        {
+          "data": "2026-04-28T01:33:55.139Z",
+          "usuario": "[ANONIMIZADO]",
+          "status": "em_separacao"
+        },
+        {
+          "data": "2026-04-28T01:33:59.629Z",
+          "usuario": "[ANONIMIZADO]",
+          "status": "pronto_retirada"
+        },
+        {
+          "data": "2026-04-28T01:34:03.811Z",
+          "usuario": "[ANONIMIZADO]",
+          "status": "entregue"
+        }
+      ],
+      "correntista_nome": "[ANONIMIZADO_0]",
+      "correntista_id": "69f0010f9c35e80ae8162db1",
+      "numero_rastreio": "1777339990666-7705",
+      "total_sustentax": 2,
+      "status": "entregue",
+      "id": "69f00e5694cf76fff6f15fcf",
+      "created_date": "2026-04-28T01:33:10.847000",
+      "updated_date": "2026-04-28T01:34:03.989000",
+      "created_by_id": "service_cd921d86-4357-4687-88e3-887a72d665f2",
+      "is_sample": false
+    },
+    {
+      "qr_code_data": null,
+      "data_entrega": "2026-04-25T09:30:00.000Z",
+      "data_pedido": "2026-04-25T09:00:00.000Z",
+      "itens": [
+        {
+          "preco_unitario": 1,
+          "produto_id": "69ec0ad817112ec0341d4f77",
+          "quantidade": 1,
+          "subtotal": 1,
+          "produto_nome": "Brinde Sustentax (Teste)"
+        }
+      ],
+      "correntista_turma": "1º Período A",
+      "historico_status": [
+        {
+          "data": "2026-04-25T09:00:00.000Z",
+          "usuario": "[ANONIMIZADO]",
+          "status": "recebido"
+        },
+        {
+          "data": "2026-04-25T09:30:00.000Z",
+          "usuario": "[ANONIMIZADO]",
+          "status": "entregue"
+        }
+      ],
+      "correntista_nome": "[ANONIMIZADO_1]",
+      "correntista_id": "69ec0ad617112ec0341d4f6b",
+      "numero_rastreio": "STX-F001",
+      "total_sustentax": 1,
+      "status": "entregue",
+      "id": "69ec0b4cb34b7a40d8752ff9",
+      "created_date": "2026-04-25T00:31:08.363000",
+      "updated_date": "2026-04-25T00:31:08.363000",
+      "created_by_id": "696984e510334e996beabbb3",
+      "is_sample": false
+    },
+    {
+      "qr_code_data": null,
+      "data_entrega": null,
+      "data_pedido": "2026-04-25T09:05:00.000Z",
+      "itens": [
+        {
+          "preco_unitario": 1,
+          "produto_id": "69ec0ad817112ec0341d4f77",
+          "quantidade": 1,
+          "subtotal": 1,
+          "produto_nome": "Brinde Sustentax (Teste)"
+        }
+      ],
+      "correntista_turma": "5º Ano A",
+      "historico_status": [
+        {
+          "data": "2026-04-25T09:05:00.000Z",
+          "usuario": "[ANONIMIZADO]",
+          "status": "recebido"
+        },
+        {
+          "data": "2026-04-25T09:45:00.000Z",
+          "usuario": "[ANONIMIZADO]",
+          "status": "cancelado"
+        }
+      ],
+      "correntista_nome": "[ANONIMIZADO_2]",
+      "correntista_id": "69ec0ad617112ec0341d4f6e",
+      "numero_rastreio": "STX-K001",
+      "total_sustentax": 1,
+      "status": "cancelado",
+      "id": "69ec0b4cb34b7a40d8752ffa",
+      "created_date": "2026-04-25T00:31:08.363000",
+      "updated_date": "2026-04-25T00:31:08.363000",
+      "created_by_id": "696984e510334e996beabbb3",
+      "is_sample": false
+    }
+  ]
+}
