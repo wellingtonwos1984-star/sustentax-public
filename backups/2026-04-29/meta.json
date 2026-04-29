@@ -1,0 +1,50 @@
+{
+  "entidade": "Meta",
+  "total": 2,
+  "gerado_em": "2026-04-29T01:17:48.244Z",
+  "nota": "Dados anonimizados conforme LGPD. Campos PII removidos.",
+  "dados": [
+    {
+      "data_inicio": "2026-03-23",
+      "tipo": "escola",
+      "premio_descricao": "Bônus para todos participantes",
+      "categoria": "total_sustentax",
+      "titulo": "Meta Inicial da Escola",
+      "unidade": "sustentax",
+      "descricao": "Toda escola unida para reciclar!",
+      "quantidade_alvo": 1000,
+      "progresso_atual": 0,
+      "premio_sustentax": 1,
+      "data_fim": "2026-04-23",
+      "turma_alvo": "",
+      "icone": null,
+      "status": "ativa",
+      "id": "69698aa426923688ef1d9f77",
+      "created_date": "2026-01-16T00:47:32.482000",
+      "updated_date": "2026-03-21T21:38:59.096000",
+      "created_by_id": "696984e510334e996beabbb3",
+      "is_sample": false
+    },
+    {
+      "data_inicio": "2026-03-23",
+      "tipo": "escola",
+      "premio_descricao": "Festival de picolé para toda a escola.",
+      "categoria": "plasticos",
+      "titulo": "Desafio do Plástico",
+      "unidade": "kg",
+      "descricao": "Coletar o máximo de plástico possível",
+      "quantidade_alvo": 1000,
+      "progresso_atual": 0,
+      "premio_sustentax": 1,
+      "data_fim": "2026-04-23",
+      "turma_alvo": "",
+      "icone": null,
+      "status": "ativa",
+      "id": "69698aa426923688ef1d9f78",
+      "created_date": "2026-01-16T00:47:32.482000",
+      "updated_date": "2026-03-21T21:38:14.936000",
+      "created_by_id": "696984e510334e996beabbb3",
+      "is_sample": false
+    }
+  ]
+}
